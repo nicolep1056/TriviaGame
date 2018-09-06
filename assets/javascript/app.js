@@ -59,7 +59,7 @@ var questions = [{
     ans: ["a bracelet", "an earring", "his notebook", "his class ring"],
     name: "bratPack",
     correct: "an earring",
-    divClass: ".bratpack"
+    divClass: ".bratPack"
 },
 {
     ques: "In 'Dirty Dancing' what was Baby's real name?",
