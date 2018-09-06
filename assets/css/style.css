@@ -1,0 +1,55 @@
+body{
+    background-color:black;
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+p{
+    color: rgb(24, 231, 17);
+    text-align: center;
+    font-weight: bold;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    color: rgb(24, 231, 17);
+    text-align: center;
+}
+
+.results{
+    color: rgb(24, 231, 17);
+    text-align: center;
+}
+
+.questions{
+    display:none;
+    color: rgb(24, 231, 17);
+    font-weight: bold;
+}
+
+.ques, label {
+    padding: 1%;
+}
+
+#timeUp{
+    display: none;
+}
+
+.timeLeft{
+    display: none;
+    color: yellow;
+}
+
+#endPage{
+    display:none;
+}
+
+.ans, label{
+    color: fuchsia;
+}
